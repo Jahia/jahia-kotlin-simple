@@ -1,2 +1,0 @@
-package org.jahia.testKotlin
-
